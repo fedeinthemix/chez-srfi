@@ -1,0 +1,15 @@
+# -*- mode: org -*-
+
+* Introduction
+
+This is a minor modification of the SRFI collection available at
+https://github.com/arcfide/chez-srfi (itself derived from
+https://launchpad.net/scheme-libraries).  The modifications are aimed
+at improving the integration with Chez Scheme's interactive
+environment.
+
+See srfi/README for the original description.
+
+* Build Instructions
+
+Please see the instructions in srfi/INSTALL.chez.
